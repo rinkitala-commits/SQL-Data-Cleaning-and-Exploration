@@ -35,17 +35,17 @@ In this project, I worked with a layoffs dataset and used SQL to:
 ## 📂 Project Structure
 
 ```text
-SQL-Data-Cleaning-and-Exploration/
+📁 SQL-Data-Cleaning-and-Exploration
 │
-├── layoffs.csv
-├── Data_Cleaning_Project.sql
-├── Data_Exploratory.sql
-└── README.md
+├── 📄 01_Data_Cleaning.sql
+├── 📄 02_Exploratory_Analysis.sql
+├── 📄 layoffs.csv
+└── 📄 README.md
 ```
 
 ## 🧹 Data Cleaning
 
-The Data_Cleaning_Project.sql file contains SQL queries used to prepare the dataset for analysis.
+The ```01_Data_Cleaning.sql ``` file contains SQL queries used to prepare the dataset for analysis.
 
 The cleaning process includes tasks such as:
 
@@ -60,7 +60,7 @@ The cleaning process includes tasks such as:
 
 ## 🔎 Exploratory Data Analysis
 
-The Data_Exploratory.sql file contains SQL queries for exploring the cleaned dataset.
+The ```02_Exploratory_Analysis.sql ``` file contains SQL queries for exploring the cleaned dataset.
 
 The analysis focuses on questions such as:
 
