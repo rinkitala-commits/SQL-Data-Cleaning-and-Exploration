@@ -129,6 +129,7 @@ This project helped me strengthen my practical understanding of:
 B.Tech Data Science Student
 
 GitHub: [rinkitala-commits](https://github.com/rinkitala-commits)
+
 LinkedIn: [Jhumarani Tala](https://www.linkedin.com/in/jhumarani-tala/)
 ## 📌 Conclusion
 
